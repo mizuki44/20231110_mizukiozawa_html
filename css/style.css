@@ -1,0 +1,3 @@
+.ttl::before {
+    content: url(../img/inspiration.svg);
+}
